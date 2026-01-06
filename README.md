@@ -136,10 +136,4 @@ Tableau workbook available in `/Tableau`
 
 ---
 
-## Project Resources
-
-- [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/hunter.baliatico/viz/SalesRevenueOptimizationDashboard/SalesRevenueOptimizationDashboard?publish=yes)  
-- [Full GitHub Repository](https://github.com/Hunter-Baliatico/Sales-Revenue-Optimization-Project)  
-- Cleaned data, SQL scripts, and Tableau workbook included  
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/hunter-baliatico-a9473823a/)
 
